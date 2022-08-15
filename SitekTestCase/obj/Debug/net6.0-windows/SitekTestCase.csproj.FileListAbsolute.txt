@@ -1,0 +1,17 @@
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\bin\Debug\net6.0-windows\SitekTestCase.exe
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\bin\Debug\net6.0-windows\SitekTestCase.deps.json
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\bin\Debug\net6.0-windows\SitekTestCase.runtimeconfig.json
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\bin\Debug\net6.0-windows\SitekTestCase.dll
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\bin\Debug\net6.0-windows\ref\SitekTestCase.dll
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\bin\Debug\net6.0-windows\SitekTestCase.pdb
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\obj\Debug\net6.0-windows\SitekTestCase.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\obj\Debug\net6.0-windows\SitekTestCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\obj\Debug\net6.0-windows\SitekTestCase.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\obj\Debug\net6.0-windows\SitekTestCase.AssemblyInfo.cs
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\obj\Debug\net6.0-windows\SitekTestCase.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\obj\Debug\net6.0-windows\SitekTestCase.dll
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\obj\Debug\net6.0-windows\ref\SitekTestCase.dll
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\obj\Debug\net6.0-windows\SitekTestCase.pdb
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\obj\Debug\net6.0-windows\SitekTestCase.genruntimeconfig.cache
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\obj\Debug\net6.0-windows\SitekTestCase.Form1.resources
+C:\Users\artem\source\repos\SitekTestCase\SitekTestCase\obj\Debug\net6.0-windows\SitekTestCase.csproj.GenerateResource.cache
