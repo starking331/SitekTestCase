@@ -1,0 +1,17 @@
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\bin\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.exe
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\bin\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.deps.json
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\bin\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.runtimeconfig.json
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\bin\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.dll
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\bin\Debug\net6.0-windows\ref\SitekTestCaseWithoutConstructor.dll
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\bin\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.pdb
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\obj\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\obj\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\obj\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\obj\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.AssemblyInfo.cs
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\obj\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\obj\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.dll
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\obj\Debug\net6.0-windows\ref\SitekTestCaseWithoutConstructor.dll
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\obj\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.pdb
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\obj\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.genruntimeconfig.cache
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\obj\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.Form1.resources
+C:\Users\artem\source\repos\SitekTestCaseWithoutConstructor\SitekTestCaseWithoutConstructor\obj\Debug\net6.0-windows\SitekTestCaseWithoutConstructor.csproj.GenerateResource.cache
