@@ -19,15 +19,10 @@ namespace SitekTestCase
 
         private string GetPath()
         {
-            OpenFileDialog ofd = new OpenFileDialog();
+            var ofd = new OpenFileDialog();
             ofd.Filter = "txt files (*.txt)|*.txt";
 
-            if (ofd.ShowDialog() == DialogResult.OK)
-            {
-                return ofd.FileName;
-            }
-
-            return string.Empty;
+            return ofd.ShowDialog() == DialogResult.OK ? ofd.FileName : string.Empty;
         }
 
         private void SelectedPathCheck()
@@ -144,16 +139,16 @@ namespace SitekTestCase
                 streamWriter.Write("Ответсвенный Исполнитель\tКоличество РКК\t\tКоличество обращений\tВсего документов");
                 streamWriter.WriteLine();
 
-                for (int i = 0; i < resultGrid.Rows.Count - 1; i++)
+                for (var i = 0; i < resultGrid.Rows.Count - 1; i++)
                 {
-                    for (int j = 0; j < resultGrid.Columns.Count; j++)
+                    for (var j = 0; j < resultGrid.Columns.Count; j++)
                     {
                         var value = resultGrid.Rows[i].Cells[j].Value.ToString();
-                        string tabulation = "\t\t";
-                        if (value != null && value.Length < 16)
-                            tabulation = "\t\t\t";
+                        var tab = "\t\t";
+                        if (value is {Length: < 16})
+                            tab = "\t\t\t";
 
-                        streamWriter.Write(value + tabulation);
+                        streamWriter.Write(value + tab);
                     }
                     streamWriter.WriteLine();
                 }
